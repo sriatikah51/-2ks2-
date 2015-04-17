@@ -21,8 +21,8 @@ public class Customer {
             if(Character.isDigit(c)){
                 throw new Exception ("Nama pembeli gak boleh berupa angka");
             }
-            this.nama = nama;
-        }
+            
+        }this.nama = nama;
         
     }
     
